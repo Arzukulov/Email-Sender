@@ -1,0 +1,9 @@
+{
+    "databaseType": "postgres",
+    "host": "localhost",
+    "database": "codemaps",
+    "username": "postgres",
+    "password": "postgres",
+    "port": 5432,
+    "hashSecretKey": "secret key"
+}
